@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, Phyton, Laravel
 - 🌱 I’m currently learning PHP, Phyton, Laravel
 - 💞️ I’m looking to collaborate on PHP, Phyton, Laravel
-- 📫 How to reach me https://www.propertiplasa.com
+- 📫 How to reach me https://www.teleworks.id
 
 <!---
 iyaniyas/iyaniyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
